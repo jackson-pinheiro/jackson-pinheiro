@@ -38,3 +38,6 @@
   <a href = "mailto:jacksonxd0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+<img src="https://github.com/kimvns/kimvns/blob/output/github-contribution-grid-snake.svg" align="center"></p>
+
