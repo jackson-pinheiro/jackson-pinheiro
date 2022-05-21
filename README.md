@@ -1,16 +1,31 @@
-### Hi there 👋
+## Olá, meu nome é jackson pinheiro!
 
-<!--
-**jackson-pinheiro/jackson-pinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Here are some ideas to get you started:
+<p align="left">
+  <ul>
+    <li>👋 Olá, eu sou Jackson Pinheiro <@jackson-pinheiro></li>
+    <li>👀 Estou interessado em compartilhar conhecimento sobre Tecnologia e linguagens de programação, como, por exemplo: JavaScript, Php, TypeScript e Python, entre outras.</li>
+    <li>🌱 Atualmente, estou aprendendo sobre arquitetura de software, padrões de projeto e boas práticas para desenvolvimento de software.</li>
+    <li>💞️ Estou procurando colaborar em JavaScript, Php, TypeScript, Python, Nodejs, Nestjs, Vuejs, Reactjs, SQL.</li>    
+   </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minhas estatísticas no GitHub
+
+<div>
+<a href="https://github.com/jackson-pinheiro">
+<img height="180em" style="position: absolute" src="https://github-readme-stats.vercel.app/api?username=jackson-pinheiro&locale=pt-br&layout=default&show_icons=true&custom_title=jackson pinheiro Status&theme=dark&include_all_commits=true&count_private=true"/></li>
+<img height="180em" style="position: absolute" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-pinheiro&locale=pt-br&layout=compact&langs_count=7&theme=dark"/></li>
+</div> 
+
+### Tecnologias
+  <div style="display: inline_block"><br>
+  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+          
+    
+</div>
